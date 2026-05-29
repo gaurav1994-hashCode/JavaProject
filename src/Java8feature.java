@@ -216,7 +216,7 @@ java8feature.m1();*/
         }*/
 
 
-        Runnable r=()->{
+       /* Runnable r=()->{
           for(int i=1;i<2;i++){
 
               System.out.println(i);
@@ -225,7 +225,7 @@ java8feature.m1();*/
         };
 
         Thread thread=new Thread(r);
-        thread.start();
+        thread.start();*/
 
 
 
