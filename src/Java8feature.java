@@ -9,7 +9,7 @@ import java.util.function.Supplier;
 
 public class Java8feature{
 
-    public static void main(String[] args) {
+    //public static void main(String[] args) {
         /*ArrayList a = new ArrayList();
         a.add(123);
         a.add("123");
@@ -233,7 +233,7 @@ java8feature.m1();*/
 
 
 
-    }
+  //  }
 
 
 
